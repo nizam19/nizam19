@@ -1,3 +1,4 @@
+![Nizam's github stats](https://github-readme-stats.vercel.app/api?username=nizam19&show_icons=true&theme=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizam19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
