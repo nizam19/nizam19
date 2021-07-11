@@ -1,5 +1,5 @@
 ![Nizam's github stats](https://github-readme-stats.vercel.app/api?username=nizam19&show_icons=true&theme=dark)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizam19&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
